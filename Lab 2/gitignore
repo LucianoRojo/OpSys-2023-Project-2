@@ -1,0 +1,10 @@
+# for all subdirectories
+TAGS
+tags
+.libs
+.deps
+.depend
+*.o
+*.out
+.vscode
+
