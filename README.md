@@ -1,1 +1,1 @@
-This project was coded in 2023 during the Operative Systems subject, 2nd year of the Computer Science degree.
+This project was coded in 2023 as an introduction to system calls in the Operative Systems subject, 2nd year of the Computer Science degree.
